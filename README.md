@@ -1,16 +1,20 @@
-### Hi there 👋
+# Olá, seja bem vindo(a)
 
-<!--
-**MatheusGomesRocha/MatheusGomesRocha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Me chamo Matheus Gomes e atualmente moro em Fortaleza-CE
 
-Here are some ideas to get you started:
+* Atualmente estou estudando React e o uso de API com Fetch.
+* Sou apaixonado por Programação desde que conheci esse mundo, sempre tento aprender algo novo e utilzar em algum projeto, por esse motivo decidi ser um programador Full Stack.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### Minhas especialidades
+- `PHP - 2 anos`
+- `Laravel - 2 anos`
+- `HTML - 2 anos`
+- `CSS - 2 anos`
+- `Bootstrap - 2 anos`
+- `MySQL - 2 anos`
+- `JavaScript - 1 ano`
+- `React-Native - 1 ano`
+- `React - 6 meses`
+
+![](https://komarev.com/ghpvc/?username=MatheusGomesRocha&color=blue)
