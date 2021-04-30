@@ -2,7 +2,7 @@
 
 Me chamo Matheus Gomes e atualmente moro em Fortaleza-CE
 
-* Atualmente estou estudando React e o uso de API com Fetch.
+* Atualmente estou estudando Typescript e o uso de API com Fetch e a biblioteca Axios.
 * Sou apaixonado por Programação desde que conheci esse mundo, sempre tento aprender algo novo e utilzar em algum projeto, por esse motivo decidi ser um programador Full Stack.
 
 
